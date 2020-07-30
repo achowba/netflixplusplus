@@ -1,0 +1,17 @@
+.button-nfIncreasePlaybackRate:hover, .button-nfDecreasePlaybackRate:hover {
+    transform: scale(1.3);
+}
+
+.showPlaybackRate {
+    background-color: white !important;
+    border-radius: 4px !important;
+    color: black !important;
+    height: 35px !important;
+    margin-top: -10px !important;
+}
+
+#showPlaybackRate {
+    color: black !important;
+    margin-top: 30px !important;
+    font-weight: bold !important;
+}
